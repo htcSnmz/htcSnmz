@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hatice</h1>
+<h1 align="center">Hi, I'm Hatice !</h1>
 <h3 align="center">A data scienctist from Türkiye</h3>
 
 - I’m currently learning **time series analysis, deep learning and big data technologies**
